@@ -1,2 +1,3 @@
-# daily-activity
-Daily activity log - keeping the streak alive
+# Daily Activity Log
+
+Keeping the contribution graph green. Updated daily.
